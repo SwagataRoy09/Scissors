@@ -3,11 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Scissors/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/backshape.xml" value="0.1915" />
         <entry key="..\:/Scissors/app/src/main/res/drawable/border1.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/border2.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/border3.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/border4.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/circle.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/hexagon.xml" value="0.103" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1915" />
+        <entry key="..\:/Scissors/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1915" />
         <entry key="..\:/Scissors/app/src/main/res/font/fonts.xml" value="0.26145833333333335" />
+        <entry key="..\:/Scissors/app/src/main/res/layout/activity_home_page.xml" value="0.2" />
         <entry key="..\:/Scissors/app/src/main/res/layout/activity_main.xml" value="0.21822916666666667" />
+        <entry key="..\:/Scissors/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
+        <entry key="..\:/Scissors/app/src/main/res/layout/activity_signin_midpage.xml" value="0.21822916666666667" />
         <entry key="..\:/Scissors/app/src/main/res/layout/activity_splash.xml" value="0.21822916666666667" />
         <entry key="..\:/Scissors/app/src/main/res/layout/activity_splash2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Scissors/app/src/main/res/layout/fragment_sidemenu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Scissors/app/src/main/res/layout/login_page.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
@@ -16,5 +31,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>

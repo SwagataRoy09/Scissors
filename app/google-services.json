@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689466959315",
+    "project_id": "scissors-475bd",
+    "storage_bucket": "scissors-475bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689466959315:android:c5632ff32c274085163b26",
+        "android_client_info": {
+          "package_name": "com.swagata.scissors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689466959315-5u7p49bfufjfs8sfl7l9hoafn2jp6u0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjYSVmba4a4_IHhG5jAHolx3_4ekNHQL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689466959315-5u7p49bfufjfs8sfl7l9hoafn2jp6u0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

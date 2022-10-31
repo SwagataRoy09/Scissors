@@ -2,7 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.swagata.scissors">
-
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,13 +16,24 @@
         android:theme="@style/Theme.Scissors"
         tools:targetApi="31">
         <activity
+            android:name=".home_page"
+            android:exported="false" />
+        <activity
+            android:name=".sign_up"
+            android:exported="false" />
+        <activity
+            android:name=".signin_midpage"
+            android:exported="false" />
+        <activity
             android:name=".splash2"
             android:exported="false" />
         <activity
-            android:name=".splash"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize"/>
+<!--        <activity android:windowSoftInputMode="adjustResize"></activity>-->
+        <activity
+            android:name=".splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,6 +41,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>
