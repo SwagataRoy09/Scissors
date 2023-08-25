@@ -7,6 +7,8 @@
 <img style="margin-right: 100px" float = "left" src="https://user-images.githubusercontent.com/93351450/203010781-eab012bf-8515-4ea0-ae62-85fd08bc2a2f.jpeg" data-canonical- width="200" height="400" />
 <img style="margin-right: 100px" src="https://user-images.githubusercontent.com/93351450/203010848-c18aab1b-6a53-4db9-864f-560fc7caa7d7.jpeg" data-canonical- width="200" height="400" />
 <img style="margin-right: 100px" src="https://user-images.githubusercontent.com/93351450/203010955-07a817cc-064b-4831-8bef-67b8418f3827.jpeg" data-canonical- width="200" height="400" />
+\<img style="margin-right: 100px" src="https://github.com/SwagataRoy09/Scissors/assets/93351450/dddbe8ff-4a57-4f7f-94b8-866ec1880f86" data-canonical- width="200" height="400" />
+
 
 ## The Canva Designs
 <p float="left">
