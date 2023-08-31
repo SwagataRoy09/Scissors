@@ -1,4 +1,9 @@
 # Scissors
+o Scissors is an Android based Mobile Application which is one stop destination of latest fashion trends and accessories.
+o User can experience artistic UI which is made using Canva, Figma and Photopea.
+o The API used for the backend of the application has been made using datas collected from people through Google Forms
+Tech Stack :REST API, Java, OOPs Concept, XML, Google Form, Firebase Realtime Database, Google Authentication
+
 ## Preview of the Application 
 ### Currently ongoing project thus added parts that has been completed.
 
